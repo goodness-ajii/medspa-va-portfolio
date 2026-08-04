@@ -1,4 +1,4 @@
-# Medical Virtual Assistant & Workflow Automation Portfolio
+# Healthcare Operations & Workflow Automation Portfolio
 
 **Prepared by:** Goodness Ajii, RN, Certified Medical Virtual Assistant  
 **Sample Practice:** Glow Aesthetics & MedSpa (fictional)  
